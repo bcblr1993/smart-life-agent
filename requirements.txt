@@ -1,0 +1,20 @@
+# Core Dependencies
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Data Processing
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# API Clients
+requests>=2.31.0
+httpx>=0.25.0
+
+# Date/Time
+python-dateutil>=2.8.2
+
+# Storage
+jsonpickle>=4.0.0
+
+# Optional: For Docker
+# docker>=6.0.0
